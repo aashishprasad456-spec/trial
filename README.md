@@ -1,4 +1,5 @@
 # trial
+
 this is my first git repository 
 <br>
-Author - Aashish Prasad
+Author - Aashish Prasad (VIT)
